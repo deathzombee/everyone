@@ -1,8 +1,6 @@
-![SSN](https://github.com/user-attachments/assets/206ce68f-d2f2-41cf-81bf-c03970b9389d)
 
-# everyone-ssn-usa
-I'm releasing everyone's SSN and the hacks used to acquire them so please freeze your credit with all 3 major credit bureaus.
-
+# everyone
+I'm releasing everyone's SSN and the scripts used to generate.
 
 # How to freeze your credit with all 3 bureaus
 Contact each of the three major credit bureaus — Equifax, Experian and TransUnion — individually to freeze your credit:
